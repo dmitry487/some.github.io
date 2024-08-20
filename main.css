@@ -6,7 +6,6 @@
 .container {
     display: flex;
     flex-direction: row;
-    justify-content: center;
     margin-inline: 17px;
     padding-top: 20px;
     color: #545454;
