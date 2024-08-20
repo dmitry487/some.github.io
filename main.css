@@ -1,7 +1,7 @@
 .top-row {
     width: 1920px;
     height: 80px;
-    color: #545454;
+    background-color: #545454;
 }
 .container {
     display: flex;
@@ -11,7 +11,7 @@
 }
 .dota_logo::before {
     content: '';
-    background-image: url('/dotalogo.svg');
+    background-image: url('img/dotalogo.svg');
     background-repeat: no-repeat;
     display: block;
     width: 109px;
@@ -22,7 +22,7 @@
 }
 .menu_menu::before {
     content: '';
-    background-image: url('/more.svg');
+    background-image: url('img/more.svg');
     background-repeat: no-repeat;
     display: block;
     width: 27px;
