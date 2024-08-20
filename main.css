@@ -11,7 +11,7 @@
 }
 .dota_logo::before {
     content: '';
-    background-image: url('img/dotalogo.svg');
+    background-image: url('/dotalogo.svg');
     background-repeat: no-repeat;
     display: block;
     width: 109px;
@@ -22,7 +22,7 @@
 }
 .menu_menu::before {
     content: '';
-    background-image: url('img/more.svg');
+    background-image: url('/more.svg');
     background-repeat: no-repeat;
     display: block;
     width: 27px;
