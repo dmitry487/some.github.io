@@ -8,6 +8,7 @@
     flex-direction: row;
     justify-content: center;
     margin-inline: 17px;
+    color: #545454;
 }
 .dota_logo::before {
     content: '';
