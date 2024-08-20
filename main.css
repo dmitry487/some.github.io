@@ -3,3 +3,31 @@
     height: 80px;
     color: #545454;
 }
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-inline: 17px;
+}
+.dota_logo::before {
+    content: '';
+    background-image: url('img/dotalogo.svg');
+    background-repeat: no-repeat;
+    display: block;
+    width: 109px;
+    height: 22px;
+}
+.dota_logo {
+    margin-right: 79px;
+}
+.menu_menu::before {
+    content: '';
+    background-image: url('img/more.svg');
+    background-repeat: no-repeat;
+    display: block;
+    width: 27px;
+    height: 27px;
+}
+.menu_menu {
+    margin-right: 106px;
+}
