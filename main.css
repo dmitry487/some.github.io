@@ -73,3 +73,12 @@ button:before {
   font-size: 16px;
   color: #545454;
 }
+
+.left_side, .right_side {
+    display: flex;
+    flex-direction: row;
+}
+
+.right_side {
+    margin-left: 887px;
+}
