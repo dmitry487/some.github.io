@@ -8,29 +8,11 @@
     flex-direction: row;
     justify-content: center;
     margin-inline: 17px;
-    margin-top: 20px;
+    padding-top: 20px;
     color: #545454;
 }
-.dota_logo::before {
-    content: '';
-    background-image: url('img/dotalogo.svg');
-    background-repeat: no-repeat;
-    display: block;
-    position: absolute;
-    width: 109px;
-    height: 22px;
-}
-
 .dota_logo {
     margin-right: 79px;
-}
-.menu_menu::before {
-    content: '';
-    background-image: url('img/more.svg');
-    background-repeat: no-repeat;
-    display: block;
-    width: 27px;
-    height: 27px;
 }
 .menu_menu {
     margin-right: 106px;
@@ -85,4 +67,13 @@ button:before {
 
 .right_side {
     margin-left: 887px;
+}
+.btn-new {
+    border-radius: 10px;
+    color: white;
+    transition: .2s linear;
+    background: #FF6046;
+}
+.btn-new:hover {
+    box-shadow: 0 0 0 2px white, 0 0 0 4px #FF6046;
 }
