@@ -8,11 +8,12 @@
     flex-direction: row;
     justify-content: center;
     margin-inline: 17px;
+    margin-top: 20px;
     color: #545454;
 }
 .dota_logo::before {
     content: '';
-    background-image: url('/img/dotalogo.svg');
+    background-image: url('img/dotalogo.svg');
     background-repeat: no-repeat;
     display: block;
     position: absolute;
@@ -25,7 +26,7 @@
 }
 .menu_menu::before {
     content: '';
-    background-image: url('/img/more.svg');
+    background-image: url('img/more.svg');
     background-repeat: no-repeat;
     display: block;
     width: 27px;
