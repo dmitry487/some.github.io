@@ -25,14 +25,9 @@ body {
 .menu_menu {
     margin-right: 106px;
 }
-.left_side, .right_side {
+.left_side {
     display: flex;
     flex-direction: row;
-}
-.right_side {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
 }
 .kolokol {
     margin-top: 3px;
@@ -44,4 +39,31 @@ body {
 }
 .mail {
     margin-left: 887px;
+}
+.right_side {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+    flex-direction: row;
+}
+.right_side a:hover {
+    outline-offset: 3px;
+    transition: all 0.3s;
+}
+
+.right_side a:hover img {
+    transition: all 0.3s;
+}
+.right_side a:hover img {
+    transform: scale(1.15);
+}
+.right_side li:nth-child(1) a:hover {
+    background-color: #FF6046;
+}
+.right_side li:nth-child(2) a:hover {
+    background-color: #FF6046;
+}
+.right_side li:nth-child(3) a:hover {
+    background-color: #FF6046;
 }
