@@ -2,9 +2,10 @@ body {
     background-image: url('fonts/mainfont.svg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-color: #212121;
   }
 .top-row {
-    width: 1920px;
+    width: 1470px;
     height: 80px;
     background-color: #545454;
 }
