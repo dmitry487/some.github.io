@@ -134,3 +134,9 @@ button:before {
         }
     }
 }
+
+.right_side {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
