@@ -1,3 +1,8 @@
+body {
+    background-image: url('fonts/mainfont.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 .top-row {
     width: 1920px;
     height: 80px;
