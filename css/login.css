@@ -1,4 +1,7 @@
 * {box-sizing: border-box}
+.mail-s {
+    margin-left: 962px
+}
 .form {
     margin-left: 25%;
     margin-top: 5%;
@@ -124,4 +127,53 @@ input[type=submit]:hover {
     display: block;
     text-align: center;
   }
+}
+.button_steam[_ngcontent-ng-c748391141] {
+    width: 100%;
+    background: linear-gradient(180deg,#3445b0,#4a5bc0);
+}
+.btn[_ngcontent-ng-c748391141] {
+    --icon-size: 3rem;
+    width: 100%;
+    min-width: 6rem;
+    height: 6rem;
+    border-radius: 1.6rem;
+}
+.btn:active, .btn:focus {
+    text-decoration: none;
+    outline: none;
+}
+.btn {
+    --bgc: transparent;
+    --border-color: transparent;
+    --icon-size: 2.2rem;
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex: 0 0 auto;
+    gap: .6rem;
+    width: auto;
+    min-width: auto;
+    height: 6.4rem;
+    background-color: var(--bgc);
+    padding-inline: 1rem;
+    border-width: 0;
+    border-style: solid;
+    border-color: var(--border-color);
+    border-radius: 1rem;
+    font-weight: 700;
+    font-size: 1.6rem;
+    line-height: 1;
+    color: var(--color, #fff);
+    opacity: 1;
+    text-transform: none;
+    white-space: nowrap;
+    overflow: hidden;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    -webkit-transition: --main-btn-gradient-start .2s ease-out 0s,--main-btn-gradient-end .2s ease-out 0s,background-color .2s ease-out 0s,border-color .2s ease-out 0s,color .2s ease-out 0s,filter .2s ease-out 0s,opacity .2s ease-out 0s,visibility .2s ease-out 0s;
+    -moz-transition: --main-btn-gradient-start .2s ease-out 0s,--main-btn-gradient-end .2s ease-out 0s,background-color .2s ease-out 0s,border-color .2s ease-out 0s,color .2s ease-out 0s,filter .2s ease-out 0s,opacity .2s ease-out 0s,visibility .2s ease-out 0s;
+    transition: --main-btn-gradient-start .2s ease-out 0s,--main-btn-gradient-end .2s ease-out 0s,background-color .2s ease-out 0s,border-color .2s ease-out 0s,color .2s ease-out 0s,filter .2s ease-out 0s,opacity .2s ease-out 0s,visibility .2s ease-out 0s;
 }
