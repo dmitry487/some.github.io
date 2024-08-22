@@ -29,38 +29,6 @@ body {
     display: flex;
     flex-direction: row;
 }
-.search-box {
-    position: absolute;
-    transform: translate(-50%, 50%);
-    background: #2f3640;
-    height: 34px;
-    border-radius: 40px;
-    padding: 10px;
-}
-.search-btn {
-    color:#FF6046;
-    float: right;
-    width: 40px;
-    height: 36px;
-    border-radius: 50%;
-    background: #2f3640;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-decoration: none;
-}
-.search-text {
-    border: none;
-    background: none;
-    outline: none;
-    float: left;
-    padding: 0;
-    color: white;
-    font-size: 16px;
-    transition: 0.4s;
-    line-height: 40px;
-    width: 40px;
-}
 .kolokol {
     margin-top: 3px;
     margin-left: 18px;
@@ -89,13 +57,4 @@ body {
 }
 .left_side a:hover img {
     transform: scale(1.15);
-}
-.left_side li:nth-child(1) a:hover {
-    background-color: #FF6046;
-}
-.left_side li:nth-child(2) a:hover {
-    background-color: #FF6046;
-}
-.left_side li:nth-child(3) a:hover {
-    background-color: #FF6046;
 }
