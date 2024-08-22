@@ -25,6 +25,9 @@ body {
 .menu_menu {
     margin-right: 106px;
 }
+.menu_menu__link{
+    margin-top: 2px;
+}
 .left_side {
     display: flex;
     flex-direction: row;
