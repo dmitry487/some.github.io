@@ -1,6 +1,6 @@
 * {box-sizing: border-box}
 .mail-s {
-    margin-left: 962px
+    margin-left: 962px;
 }
 .form {
     margin-left: 25%;
@@ -19,7 +19,7 @@
 
 /* style inputs and link buttons */
 input,
-.btn_button_steam {
+.btn {
   width: 100%;
   padding: 12px;
   border: none;
@@ -33,7 +33,7 @@ input,
 }
 
 input:hover,
-.btn_button_steam:hover {
+.btn:hover {
   opacity: 1;
 }
 /* style the submit button */
