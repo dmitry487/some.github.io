@@ -19,7 +19,7 @@
 
 /* style inputs and link buttons */
 input,
-.btn {
+.btn_button_steam {
   width: 100%;
   padding: 12px;
   border: none;
@@ -33,26 +33,9 @@ input,
 }
 
 input:hover,
-.btn:hover {
+.btn_button_steam:hover {
   opacity: 1;
 }
-
-/* add appropriate colors to fb, twitter and google buttons */
-.fb {
-  background-color: #3B5998;
-  color: white;
-}
-
-.twitter {
-  background-color: #55ACEE;
-  color: white;
-}
-
-.google {
-  background-color: #dd4b39;
-  color: white;
-}
-
 /* style the submit button */
 input[type=submit] {
   background-color: #4CAF50;
