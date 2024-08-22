@@ -71,4 +71,5 @@ body {
     padding: 10px 45px 9px; /* Поля вокруг текста */
     text-decoration: none; /* Убираем подчёркивание */
     border-radius: 3px; /* Скругляем уголки */
+    margin-top: -4px;
 }
