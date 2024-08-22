@@ -58,6 +58,6 @@ body {
 .left_side a:hover img {
     transform: scale(1.15);
 }
-.kolokol, .settings {
+.kolokol__link, .settings__link {
     margin-top: 2px;
 }
