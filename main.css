@@ -72,4 +72,5 @@ body {
     text-decoration: none; /* Убираем подчёркивание */
     border-radius: 3px; /* Скругляем уголки */
     margin-top: -4px;
+    font-size: large;
 }
