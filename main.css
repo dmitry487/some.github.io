@@ -63,7 +63,6 @@ body {
 .kolokol__link, .setting__link {
     margin-top: 2px;
 }
-
 .btn {
     display: inline-block; /* Строчно-блочный элемент */
     background: #FF6046; /* Серый цвет фона */
