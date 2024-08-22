@@ -54,16 +54,16 @@ body {
     outline-offset: 3px;
     transition: all 0.3s;
 }
-
-.left_side a:hover img {
+.left_side a:hover img, .left_side a:hover {
     transition: all 0.3s;
 }
-.left_side a:hover img {
+.left_side a:hover img, .left_side a:hover {
     transform: scale(1.15);
 }
 .kolokol__link, .setting__link {
     margin-top: 2px;
 }
+
 .btn {
     display: inline-block; /* Строчно-блочный элемент */
     background: #FF6046; /* Серый цвет фона */
