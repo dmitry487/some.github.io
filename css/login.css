@@ -1,6 +1,6 @@
 * {box-sizing: border-box}
 .mail-s__link {
-    margin-left: 962px;
+    margin-left: 958px;
 }
 
 /* style the container */
@@ -113,4 +113,5 @@ input[type=submit]:hover {
 }
 .div1{
   display: none;
+  color: aqua;
 }
