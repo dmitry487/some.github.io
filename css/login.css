@@ -116,3 +116,7 @@ ul.passlog {
   margin-inline: 35%;
   margin-top: 50%;
 }
+.row {
+  justify-content: center;
+  margin-top: 50px;
+}
