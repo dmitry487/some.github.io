@@ -2,10 +2,7 @@
 .mail-s__link {
     margin-left: 962px;
 }
-.form {
-    margin-left: 25%;
-    margin-top: 5%;
-    }
+
 /* style the container */
 .p-container {
   position: relative;
@@ -110,13 +107,4 @@ input[type=submit]:hover {
     display: block;
     text-align: center;
   }
-}
-ul.passlog {
-  display: grid;
-  margin-inline: 35%;
-  margin-top: 50%;
-}
-.row {
-  justify-content: center;
-  margin-top: 50px;
 }
