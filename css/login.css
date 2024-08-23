@@ -66,7 +66,6 @@ input[type=submit]:hover {
   position: absolute;
   left: 50%;
   transform: translate(-50%);
-  border: 2px solid #ddd;
 }
 
 /* text inside the vertical line */
@@ -88,7 +87,8 @@ input[type=submit]:hover {
 /* bottom container */
 .bottom-container {
   text-align: center;
-  background-color: #666;
+  height: 700px;
+  background-color: black;
   border-radius: 0px 0px 4px 4px;
 }
 
