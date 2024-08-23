@@ -50,7 +50,8 @@ input[type=submit]:hover {
   width: 50%;
   margin: auto;
   padding: 0 50px;
-  margin-top: 6px;
+  margin-top: 50px;
+  margin-inline: 25%;
 }
 
 /* Clear floats after the columns */
