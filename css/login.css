@@ -1,5 +1,5 @@
 * {box-sizing: border-box}
-.mail-s {
+.mail-s__link {
     margin-left: 962px;
 }
 .form {
@@ -112,5 +112,7 @@ input[type=submit]:hover {
   }
 }
 ul.passlog {
-  display: grid
+  display: grid;
+  margin-inline: 35%;
+  margin-top: 50%;
 }
