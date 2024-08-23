@@ -111,3 +111,6 @@ input[type=submit]:hover {
 .pp{
   margin-bottom: 50px;
 }
+.div1{
+  display: none;
+}
