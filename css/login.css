@@ -112,6 +112,5 @@ input[type=submit]:hover {
   }
 }
 ul.passlog {
-  display: flex;
-  flex-direction: wrap;
+  display: grid
 }
