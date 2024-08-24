@@ -111,3 +111,24 @@ input[type=submit]:hover {
 .pp{
   margin-bottom: 50px;
 }
+.menu {
+  position: absolute;
+  left: 0;
+  top: 60px;
+  width: 150px;
+  height: 200px;
+  background-color: #E6E6FA;
+  transition: transform .4s linear;
+  transform: translateX(-100%);
+}
+
+.menu--active {
+  transform: translateX(0%);
+}
+
+.butt-menu {
+  width: 50px;
+  height: 50px;
+  background-image: url("/public/image/user.png");
+  border-radius: 20px;
+}

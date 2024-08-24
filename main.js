@@ -1,3 +1,8 @@
-function viewDiv(){
-    document.getElementById("div1").style.display = "block";
-};
+const menu = document.querySelector('.menu');
+const button = document.querySelector('.butt-menu');
+
+function toggleMenu() {
+  menu.classList.toggle('menu--active');
+}
+
+button.addEventListener('click', toggleMenu)
