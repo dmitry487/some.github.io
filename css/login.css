@@ -126,9 +126,9 @@ input[type=submit]:hover {
   transform: translateX(0%);
 }
 
-.butt-menu {
+.menu_menu {
   width: 50px;
   height: 50px;
-  background-image: url("/public/image/user.png");
+  background-image: url("img/more.svg");
   border-radius: 20px;
 }
