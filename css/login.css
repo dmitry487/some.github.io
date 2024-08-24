@@ -126,3 +126,6 @@ div ul ul li ul li ul {
   left: 180px;
   top: 0px
 }
+div ul ul li:hover > ul {
+  display: initial;
+}
