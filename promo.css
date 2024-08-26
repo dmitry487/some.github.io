@@ -1,11 +1,6 @@
-.support-line {
-    width: 93px;
+.herous {
     height: 932px;
-    background-color: #545454;
-}
-.main-promo_block {
-    height: 923px;
-    width: 1377px;
+    width: 100%;
 }
 .Block_herous {
     z-index: 10;
