@@ -2,8 +2,10 @@
     height: 932px;
     width: 100%;
 }
-.col-1 {
+
+.support-line {
     background-color: #545454;
+    width: 10%;
 }
 .Block_herous {
     z-index: 10;
@@ -15,9 +17,11 @@
     height: 170px;
     padding-top: 10px;
     padding-bottom: 14px;
-    padding-inline: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
     width: 165px;
     margin-inline: 31px;
+    margin-bottom: 28px;
 }
 .first_row, .second_row, .third_row {
     display: flex;
