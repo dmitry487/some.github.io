@@ -20,3 +20,7 @@
     margin-inline: 25px;
     width: 165px;
 }
+.first_row, .second_row, .third_row {
+    display: flex;
+    flex-direction: wrap;
+}
