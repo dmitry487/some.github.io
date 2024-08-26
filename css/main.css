@@ -79,3 +79,11 @@ body {
 .menu_menu:hover > ul {
     display: block;
 }
+.col-6 {
+    display: block;
+    width: 90%;
+}
+.col-1 {
+    display: block;
+    width: 10%;
+}
