@@ -7,3 +7,16 @@
     height: 923px;
     width: 1377px;
 }
+.Block_herous {
+    z-index: 10;
+    background-color: #212121;
+    border: 1px solid grey;
+    box-shadow: 0 0 6px 0 rgba(0,0,0,.2);
+    box-sizing: border-box;
+    overflow: hidden;
+    height: 170px;
+    margin-top: 10px;
+    margin-bottom: 14px;
+    margin-inline: 25px;
+    width: 165px;
+}
