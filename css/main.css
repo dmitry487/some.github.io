@@ -76,6 +76,6 @@ body {
 .dop_menu_menu {
     display: none;
 }
-.menu_menu:hover > .dop_menu_menu {
+.menu_menu:hover > ul {
     display: block;
 }
