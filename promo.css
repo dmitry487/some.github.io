@@ -27,3 +27,13 @@
     margin-inline: 10px;
     text-align: center;
 }
+.category_box_row a:hover, .category_box_row label:hover {
+    outline-offset: 3px;
+    transition: all 0.3s;
+}
+.category_box_row a:hover img, .category_box_row a:hover, .category_box_row label:hover, .category_box_row label:hover img {
+    transition: all 0.3s;
+}
+.category_box_row a:hover img, .category_box_row a:hover, .category_box_row label:hover, .category_box_row label:hover img{
+    transform: scale(1.15);
+}
