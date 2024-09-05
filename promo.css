@@ -21,3 +21,9 @@
     padding: 17px;
     margin-right: 35px;
 }
+.hero_name {
+    color: white;
+    font-size: medium;
+    justify-self: center;
+    margin-inline: 10px;
+}
