@@ -2,6 +2,14 @@
     width: auto;
     height: 1080px;
 }
+.col-15 {
+    width: 15%;
+    background-color: #545454;
+}
+
+.col-85 {
+    background-color: black;
+}
 
 .category_box_row {
     display: flex;
