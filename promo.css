@@ -41,9 +41,14 @@
     transform: scale(1.15);
 }
 .heroous_search {
-    text-align: center;
     font-size: xx-large;
     color: white;
     margin-top: 48px;
     margin-bottom: 78px;
+    margin-left: 75px;
+}
+
+.atribut_search {
+    display: flex;
+    flex-direction: row;
 }
