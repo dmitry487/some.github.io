@@ -2,12 +2,6 @@
     width: auto;
     height: 1080px;
 }
-.category_box_row {
-    display: flex;
-    flex-direction: wrap;
-    margin-left: 75px;
-    margin-bottom: 28px;
-}
 .category_box {
     z-index: 10;
     background-color: #545454;
@@ -26,6 +20,15 @@
     justify-self: center;
     margin-inline: 10px;
     text-align: center;
+}
+.category_box_row {
+    display: flex;
+    margin-left: 75px;
+    margin-bottom: 28px;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+    flex-direction: row;
 }
 .category_box_row a:hover, .category_box_row label:hover {
     outline-offset: 3px;
