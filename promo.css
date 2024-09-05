@@ -1,14 +1,6 @@
-.col-6 {
-    display: block;
-    width: 50%;
-}
-.herous {
-    width: 100%;
-    height: 932px;
-}
-.main_herous_line {
-    width: 87%;
-    height: 932px;
+.category_box_row {
+    display: flex;
+    flex-direction: wrap;
 }
 .category_box {
     z-index: 10;
