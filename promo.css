@@ -2,8 +2,6 @@
     width: auto;
     height: 1080px;
 }
-
-
 .category_box_row {
     display: flex;
     flex-direction: wrap;
