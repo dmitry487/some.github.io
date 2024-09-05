@@ -40,3 +40,10 @@
 .category_box_row a:hover img, .category_box_row a:hover, .category_box_row label:hover, .category_box_row label:hover img{
     transform: scale(1.15);
 }
+.heroous_search {
+    text-align: center;
+    font-size: large;
+    color: white;
+    margin-top: 48px;
+    margin-bottom: 78px;
+}
