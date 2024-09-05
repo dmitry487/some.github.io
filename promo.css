@@ -47,7 +47,10 @@
     margin-bottom: 78px;
     margin-left: 170px;
 }
-.atribut_search {
+.atribut_search, .atribut_grey_row {
     display: flex;
     flex-direction: row;
+}
+.atribut_grey_row {
+    background-color: #525252;
 }
