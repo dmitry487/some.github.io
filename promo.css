@@ -9,6 +9,7 @@
     flex-direction: wrap;
     margin-left: 75px;
     margin-right: 475px;
+    margin-bottom: 28px;
 }
 .category_box {
     z-index: 10;
