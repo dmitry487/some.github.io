@@ -61,3 +61,16 @@
 .sila {
     margin-left: 13px;
 }
+.atribut_grey_row a:hover, .atribut_grey_row label:hover {
+    outline-offset: 3px;
+    transition: all 0.3s;
+}
+.atribut_grey_row a:hover img, .atribut_grey_row a:hover, .atribut_grey_row label:hover, .atribut_grey_row label:hover img {
+    transition: all 0.3s;
+}
+.atribut_grey_row a:hover img, .atribut_grey_row a:hover, .atribut_grey_row label:hover, .atribut_grey_row label:hover img{
+    transform: scale(1.15);
+}
+.atribut_img:hover {
+    background-color: #FF6046;
+}
