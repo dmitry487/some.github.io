@@ -72,9 +72,9 @@
     transform: scale(1.15);
 }
 .atribut_img:hover {
-    background-color: #FF6046;
+    color: #FF6046;
 }
 .w_sila {
     margin-left: 13px;
-    background-color: #FF6046;
+    color: #FF6046;
 }
