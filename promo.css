@@ -30,25 +30,6 @@
     list-style: none;
     flex-direction: row;
 }
-.category_box_row__last {
-    display: flex;
-    margin-left: 75px;
-    margin-bottom: 28px;
-    justify-content: start;
-    flex-wrap: wrap;
-    list-style: none;
-    flex-direction: row;
-}
-.category_box_row__last a:hover, .category_box_row__last label:hover {
-    outline-offset: 3px;
-    transition: all 0.3s;
-}
-.category_box_row__last a:hover img, .category_box_row__last a:hover, .category_box_row__last label:hover, .category_box_row__last label:hover img {
-    transition: all 0.3s;
-}
-.category_box_row__last a:hover img, .category_box_row__last a:hover, .category_box_row__last label:hover, .category_box_row__last label:hover img{
-    transform: scale(1.15);
-}
 .category_box_row a:hover, .category_box_row label:hover {
     outline-offset: 3px;
     transition: all 0.3s;
