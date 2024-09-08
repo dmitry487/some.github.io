@@ -62,6 +62,16 @@ body {
 .left_side a:hover img, .left_side a:hover, .left_side label:hover, .left_side label:hover img{
     transform: scale(1.15);
 }
+.right_side a:hover, .right_side label:hover {
+    outline-offset: 3px;
+    transition: all 0.3s;
+}
+.right_side a:hover img, .right_side a:hover, .right_side label:hover, .right_side label:hover img {
+    transition: all 0.3s;
+}
+.right_side a:hover img, .right_side a:hover, .right_side label:hover, .right_side label:hover img{
+    transform: scale(1.15);
+}
 .kolokol__link, .setting__link {
     margin-top: 2px;
 }
