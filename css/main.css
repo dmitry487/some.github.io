@@ -32,6 +32,11 @@ body {
     display: flex;
     flex-direction: row;
 }
+.right_side {
+    display: flex;
+    flex-direction: row;
+    margin-left: 50%;
+}
 .kolokol {
     margin-top: 3px;
     margin-left: 18px;
