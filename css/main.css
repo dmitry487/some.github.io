@@ -112,7 +112,9 @@ input {
   }
   
   label:after {
-    content: "Show";
+    content:url('img/more.svg');
+    width: 27px;
+    height: 27px;
   }
   
   ul {
