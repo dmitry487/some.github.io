@@ -75,22 +75,6 @@ body {
 .kolokol__link, .setting__link {
     margin-top: 2px;
 }
-.btn {
-    display: inline-block; /* Строчно-блочный элемент */
-    background: #FF6046; /* Серый цвет фона */
-    color: #fff; /* Белый цвет текста */
-    padding: 10px 45px 9px; /* Поля вокруг текста */
-    text-decoration: none; /* Убираем подчёркивание */
-    border-radius: 3px; /* Скругляем уголки */
-    margin-top: -4px;
-    font-size: large;
-}
-.dop_menu_menu {
-    display: none;
-}
-.menu_menu:hover > ul {
-    display: block;
-}
 .col-6 {
     display: block;
     width: 1377px;
