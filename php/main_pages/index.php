@@ -25,7 +25,7 @@ background-color: #212121;">
                 <ul class="container">
                     <ul class="left_side">
                         <li>
-                            <a href='index.html' class="dota_logo">
+                            <a href='index.php' class="dota_logo">
                                 <img src="img/dotalogo.svg" class="dotaloggggg" stile="width 109px height 22px">
                             </a>
                         </li>
@@ -52,7 +52,7 @@ background-color: #212121;">
                             </a>
                         </li>
                         <li>
-                            <a href="login.html" class="btn">Login</a>
+                            <a href="login.php" class="btn">Login</a>
                         </li>
                     </ul>
                 </ul>
