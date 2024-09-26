@@ -1,0 +1,101 @@
+body {
+    background-image: url('fonts/mainfont.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #212121;
+  }
+.top-row {
+    width: 100%;
+    height: 80px;
+    background-color: #545454;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    margin-inline: 17px;
+    padding-top: 20px;
+    color: #545454;
+}
+.dota_logo {
+    margin-right: 79px;
+}
+.dotaloggggg {
+    margin-top: 4px;
+}
+.menu_menu {
+    margin-right: 106px;
+}
+.menu_menu__link{
+    margin-top: 2px;
+}
+.left_side {
+    display: flex;
+    flex-direction: row;
+}
+.right_side {
+    display: flex;
+    flex-direction: row;
+    margin-left: 50%;
+}
+.kolokol {
+    margin-top: 3px;
+    margin-left: 18px;
+    margin-right: 20px;
+}
+.settings {
+    margin-right: 28px;
+}
+.left_side {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    list-style: none;
+    flex-direction: row;
+}
+.left_side a:hover, .left_side label:hover {
+    outline-offset: 3px;
+    transition: all 0.3s;
+}
+.left_side a:hover img, .left_side a:hover, .left_side label:hover, .left_side label:hover img {
+    transition: all 0.3s;
+}
+.left_side a:hover img, .left_side a:hover, .left_side label:hover, .left_side label:hover img{
+    transform: scale(1.15);
+}
+.right_side a:hover, .right_side label:hover {
+    outline-offset: 3px;
+    transition: all 0.3s;
+}
+.right_side a:hover img, .right_side a:hover, .right_side label:hover, .right_side label:hover img {
+    transition: all 0.3s;
+}
+.right_side a:hover img, .right_side a:hover, .right_side label:hover, .right_side label:hover img{
+    transform: scale(1.15);
+}
+.kolokol__link, .setting__link {
+    margin-top: 2px;
+}
+.btn {
+    display: inline-block; /* Строчно-блочный элемент */
+    background: #FF6046; /* Серый цвет фона */
+    color: #fff; /* Белый цвет текста */
+    padding: 10px 45px 9px; /* Поля вокруг текста */
+    text-decoration: none; /* Убираем подчёркивание */
+    border-radius: 3px; /* Скругляем уголки */
+    margin-top: -4px;
+    font-size: large;
+}
+.dop_menu_menu {
+    display: none;
+}
+.menu_menu:hover > ul {
+    display: block;
+}
+.col-6 {
+    display: block;
+    width: 1377px;
+}
+.col-1 {
+    display: block;
+    width: 93px;
+}
